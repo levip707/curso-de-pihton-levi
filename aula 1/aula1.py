@@ -98,7 +98,7 @@
 #entrada de dados
 
 #nome = input(' Digite o seu nome: ')
-#print ( Olá ´,nome)
+#print ('Olá ',nome)
 
 x = input('Digiti o primeiro número:')
 y = input('Digiti o primeiro número:')
