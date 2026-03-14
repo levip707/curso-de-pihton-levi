@@ -47,7 +47,7 @@
 # == - igual
 # <= - menor ou igual
 # >= - maior ou igual
-# ?= - diferente
+# != - diferente
 
 idade = 18
 
