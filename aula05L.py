@@ -96,9 +96,9 @@
 #     print(f'parcela {i+1} = {valorParcela}')
 
 # crie um programa que tenha o seguinte menu
- 1 - adicionar produtos ao carrinho
- 2 - listar os produtos
- 3 - sair 
+#  1 - adicionar produtos ao carrinho
+#  2 - listar os produtos
+#  3 - sair 
 
 produtos = ['notbook','tablet','mouse']
 
