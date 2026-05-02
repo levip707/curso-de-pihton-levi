@@ -22,11 +22,11 @@
 
 # 
 
-import pyqrcode
+# import pyqrcode
 
-link = 'https://google.com'
-qr = pyqrcode.create(link)
-qr.png('qrcodeGoogle.png',scale=6)
-print('QRcode gerado com sucesso')
+# link = 'https://google.com'
+# qr = pyqrcode.create(link)
+# qr.png('qrcodeGoogle.png',scale=6)
+# print('QRcode gerado com sucesso')
 
  
